@@ -59,10 +59,6 @@ export default siteConfig({
     {
       title: 'Contact',
       pageId: '0bd8ac85eaa34c1d8ee7a3c6d4c0d6fe'
-    },
-    {
-      title: 'RSS',
-      [RSS](https://blog.tobychung.com/feed)
-    },
+    }
   ]
 })
